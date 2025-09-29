@@ -5,7 +5,7 @@
 }
 
 .topo_itens {
-  width: 1024px;
+  max-width: 1024px;
   max-height: 10vh;
   display: flex;
   justify-content: space-around;

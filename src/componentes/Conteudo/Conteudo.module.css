@@ -1,13 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 .container_conteudo {
-  border: 3px solid red;
   width: 100%;
   min-height: 60vh;
 }
 
 .conteudo {
-  border: 3px solid green;
   max-width: 900px;
   height: auto;
   margin: 0 auto;
@@ -16,27 +14,37 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  gap: 30px;
+  gap: 20px;
   padding: 20px;
 }
 
 .conteudo h1 {
-  font-size: 2.5rem;
+  font-size: 2.3rem;
 }
 
 .paragrafo_destaque {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: bold;
 }
 
-.paragraafo {
-  font-size: 1.1rem;
+.paragrafo {
+  font-size: 1rem;
 }
 
 .assinatura {
-  font-size: 3.125rem;
+  font-size: 3rem;
   color: var(--bordas-botoes);
   font-family: "Great Vibes", sans-serif;
 }
 
 /* tema escuro */
+
+.tema_escuro {
+  background-color: var(--titulos);
+}
+
+.tema_escuro .conteudo h1,
+.tema_escuro .paragrafo_destaque,
+.tema_escuro .paragrafo {
+  color: var(--fundo-claro);
+}

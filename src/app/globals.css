@@ -1,17 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
-:root{
+:root {
   --fundo-claro: #ffffff;
   --fundo-escuro: #252323;
   --titulos: #000000;
-  --bordas-botoes: #B2987D;
-
+  --bordas-botoes: #b2987d;
 }
-
 
 * {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
   font-family: Poppins, sans-serif;
+}
+
+html {
+  font-size: clamp(16px, 2vw, 20px);
+  /* Define o tamanho base da fonte de forma responsiva.
+     O valor de 1rem será ajustado conforme a largura da tela.
+     Isso permite que todos os elementos que usam rem se adaptem automaticamente. */
 }
