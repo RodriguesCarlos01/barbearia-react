@@ -37,8 +37,8 @@ Durante o desenvolvimento deste projeto, aprendi:
 _Interface moderna com alternância de tema claro/escuro_
 
 <p align="center">
-  <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/public/tema-claro.png?raw=true" alt="Tema Claro" width="45%" />
-  <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/public/tema-escuro.png?raw=true" alt="Tema Escuro" width="45%" />
+  <img src="https://github.com/RodriguesCarlos01/barbearia-react/blob/main/public/tema-claro.png?raw=true" alt="Tema Claro" width="45%" />
+  <img src="https://github.com/RodriguesCarlos01/barbearia-react/blob/main/public/tema-escuro.png?raw=true" alt="Tema Escuro" width="45%" />
 </p>
 ---
 
