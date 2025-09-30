@@ -63,10 +63,10 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar
 
 ## 🚀 Deploy na Vercel
 
-Este projeto pode ser facilmente publicado na plataforma **Vercel**.  
-Acesse o link abaixo para iniciar o deploy:
+Este projeto foi publicado na plataforma `Vercel`.  
+Você pode acessá-lo clicando no link abaixo:
 
-👉 [Deploy com Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
+👉 [Deploy com Vercel](https://barbearia-react-three.vercel.app/)
 
 ## 📂 Estrutura de pastas
 
@@ -92,7 +92,5 @@ Desenvolvido por **Carlos** como parte de sua jornada de aprendizado em desenvol
 
 ## 📱 Conecte-se comigo
 
-## 📱 Conecte-se comigo
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos-blue?logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
-- [![GitHub](https://img.shields.io/badge/GitHub-Carlos-black?logo=github)](https://github.com/seu-usuario)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos-blue?logo=linkedin)](https://www.linkedin.com/in/carlos-alcides/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Carlos-black?logo=github)](https://github.com/RodriguesCarlos01)
