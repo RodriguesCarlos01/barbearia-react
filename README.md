@@ -88,7 +88,7 @@ public/
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por **Carlos** como parte de sua jornada de aprendizado em desenvolvimento web.
+Desenvolvido por **Carlos** como parte da minha jornada de aprendizado em desenvolvimento web.
 
 ## 📱 Conecte-se comigo
 
