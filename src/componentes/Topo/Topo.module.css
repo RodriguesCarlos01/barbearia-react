@@ -29,6 +29,7 @@
   border-radius: 15px;
   border: 2px solid var(--bordas-botoes);
   background-color: var(--fundo-claro);
+  cursor: pointer;
 }
 
 /* Modo Escuro */

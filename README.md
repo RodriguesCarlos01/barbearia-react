@@ -1,36 +1,98 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💈 Barbearia React
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-13+-blue?logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
+[![Status](https://img.shields.io/badge/status-finalizado-brightgreen)]()
 
-First, run the development server:
+Projeto desenvolvido como parte de um curso de desenvolvimento web com **React** e **Next.js**. O foco principal foi a implementação de **tema escuro** e o uso da **Context API** para gerenciar estado global de forma eficiente.
+
+---
+
+## ✨ O que aprendi
+
+Durante o desenvolvimento deste projeto, aprendi:
+
+- Como implementar **tema escuro e claro** com alternância dinâmica
+- Como **criar e usar Contextos com React** utilizando `createContext` e o hook nativo `useContext`
+- Como envolver componentes com `Provider` para compartilhar estado global
+- Como estruturar um projeto com **Next.js** usando a pasta `app/` e componentes client-side
+- Como aplicar estilos com **CSS Modules**
+- Como usar **React Icons** para melhorar a interface
+- Como fazer **deploy gratuito na Vercel**
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
+- [![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
+- [![CSS Modules](https://img.shields.io/badge/CSS%20Modules-styled-green)](https://nextjs.org/docs/basic-features/built-in-css-support)
+- [![Context API](https://img.shields.io/badge/Context%20API-React%20State-orange)](https://reactjs.org/docs/context.html)
+- [![React Icons](https://img.shields.io/badge/React%20Icons-%F0%9F%94%A5-lightgrey)](https://react-icons.github.io/react-icons/)
+
+---
+
+## 📸 Preview
+
+_Interface moderna com alternância de tema claro/escuro_
+
+<p align="center">
+  <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/public/tema-claro.png?raw=true" alt="Tema Claro" width="45%" />
+  <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/public/tema-escuro.png?raw=true" alt="Tema Escuro" width="45%" />
+</p>
+---
+
+## 📦 Instalação
 
 ```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/barbearia-react.git
+
+# Acesse a pasta
+cd barbearia-react
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🚀 Deploy na Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Este projeto pode ser facilmente publicado na plataforma **Vercel**.  
+Acesse o link abaixo para iniciar o deploy:
 
-## Learn More
+👉 [Deploy com Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
-To learn more about Next.js, take a look at the following resources:
+## 📂 Estrutura de pastas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```src/
+├── app/
+│ ├── layouts/
+│ └── page.js
+├── componentes/
+│
+├── Topicos.jsx
+│ ├── Banner.jsx
+│ └── Conteudo/
+│ └── index.jsx
+├── context/
+│ └── TemaContext.js
+public/
+└── bandeira.png
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🙋‍♂️ Autor
 
-## Deploy on Vercel
+Desenvolvido por **Carlos** como parte de sua jornada de aprendizado em desenvolvimento web.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📱 Conecte-se comigo
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📱 Conecte-se comigo
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos-blue?logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+- [![GitHub](https://img.shields.io/badge/GitHub-Carlos-black?logo=github)](https://github.com/seu-usuario)
